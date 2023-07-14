@@ -16,7 +16,7 @@ features                                  :
 
   - title                                 : Your Content Everywhere
     description                           : You can use Tilfaz on iPhone, iPad, Apple TV, and Mac.
-    fontawesome_icon_name                 : apple
+    fontawesome_icon_name                 : globe
     
   - title                                 : Cloud Syncing
     description                           : Your library is synchronized securely and instantly across all of your devices.
@@ -24,7 +24,7 @@ features                                  :
 
   - title                                 : Global Search
     description                           : Advanced search engine that helps you find what you're looking for in your library.
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : glasses
 
   - title                                 : Advanced Player
     description                           : Supports various formats, subtitle, audio tracks, changing playback speed, and more…
